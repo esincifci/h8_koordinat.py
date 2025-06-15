@@ -1,0 +1,17 @@
+Hafta 8 Çalışma Özeti:
+
+Bu hafta, Matplotlib kütüphanesi kullanılarak 2 boyutlu veri görselleştirme üzerine çalışma gerçekleştirildi. 
+
+Nokta grafikleri (scatter plot) oluşturularak farklı renklerde veri noktalarının gösterilmesi sağlandı.
+
+Veri noktaları arasındaki bağlantılar çizgi grafiklerle görselleştirildi.
+
+Grafik üzerinde x ve y eksenleri için ok işaretleri (arrow) eklenerek eksenlerin vurgulanması sağlandı.
+
+Grafik alanı sınırları dinamik olarak alınarak, eksenler uygun şekilde ayarlandı.
+
+Grafik üzerinde 45 derece eğimli siyah bir çizgi çizildi.
+
+Grafik ızgarası etkinleştirilerek görselleştirme daha okunabilir hale getirildi.
+
+Bu uygulama, veri görselleştirme ve grafik düzenlemeleri konusunda deneyim kazanmayı hedeflemiştir.
